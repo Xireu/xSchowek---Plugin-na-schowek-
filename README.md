@@ -12,3 +12,4 @@ TO DO:
 - Dodanie pełnej konfiguracji gui
 
 DOWNLOAD: http://hostuje.net/file.php?id=3dfc2f3cdea8d6a8b74c4a306e828520
+Filmik: https://www.youtube.com/watch?v=hrtcQJv40_0
