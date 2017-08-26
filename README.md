@@ -7,8 +7,8 @@ Wersja 1.0-SNAP:
 
 TO DO:
 
-- W evencie DamageEntityByEntityEvent trzeba zmienić playerów na entity i sprawdzać czy entity to player - BŁĄD
+- [NAPRAWIONE] W evencie DamageEntityByEntityEvent trzeba zmienić playerów na entity i sprawdzać czy entity to player - BŁĄD
 - Dodanie Limitu dla vipa
 - Dodanie pełnej konfiguracji gui
 
-DOWNLOAD: http://hostuje.net/file.php?id=0dfdb98ec4ed524683a556017a3b6428
+DOWNLOAD: http://hostuje.net/file.php?id=3dfc2f3cdea8d6a8b74c4a306e828520
