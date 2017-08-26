@@ -13,13 +13,13 @@ TO DO:
 
 DOWNLOAD: http://hostuje.net/file.php?id=fe3e4ffe8466dd0a1bbf14989c80b1c2
 
-SS 1: http://ifotos.pl/z/qhnqwsq
-SS 2: http://ifotos.pl/z/qhnqwah
-SS 3: http://ifotos.pl/z/qhnqwar
+SS 1: http://ifotos.pl/z/qhnqwsq                                                                                                   
+SS 2: http://ifotos.pl/z/qhnqwah                                                                                                  
+SS 3: http://ifotos.pl/z/qhnqwar                                                                                                  
 
 FILMIK: ???
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Wersja 1.0-SNAP:
 
@@ -28,8 +28,8 @@ Wersja 1.0-SNAP:
 TO DO:
 
 - [NAPRAWIONE] W evencie DamageEntityByEntityEvent trzeba zmienić playerów na entity i sprawdzać czy entity to player - BŁĄD
-- Dodanie Limitu dla vipa
-- Dodanie pełnej konfiguracji gui
+- [DODANO W v2.0] Dodanie Limitu dla vipa
+- [DODANO W v2.0] Dodanie pełnej konfiguracji gui
 
 DOWNLOAD: http://hostuje.net/file.php?id=3dfc2f3cdea8d6a8b74c4a306e828520
 
